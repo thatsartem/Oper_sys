@@ -1,0 +1,21 @@
+#1/bin/bash
+
+select opt in "Current User" "Used Memory" "Disk space" "Running processes" "Processes started by the cur user" "System date and time" "System start time" "Manual in command top" "Displaying the name of the current directory" "Create a folder" "Program version info" "Exit"
+do
+	echo $opt;
+	case "$opt" in
+	"Current User") whoami;;
+	"Used Memory") free -m -l;;
+	"Disk space") df -k;;
+	"Running processes") ps -e;;
+	"Processes started by the cur user") ps -u $(whoami);;
+	"System date and time") date -u;;
+	"System start time") uptime;;
+	"Manual in command top") man top;;
+	"Displaying the name of the current directory") pwd;;
+	"Create a folder") mkdir new folder;;
+	"Program version info") free -V;;
+	"Exit") exit;;
+	esac
+done
+	

@@ -1,0 +1,48 @@
+27973:   bash
+0000558543e89000    180K r---- bash
+0000558543eb6000    708K r-x-- bash
+0000558543f67000    220K r---- bash
+0000558543f9e000     16K r---- bash
+0000558543fa2000     36K rw--- bash
+0000558543fab000     40K rw---   [ anon ]
+00005585446d0000   1300K rw---   [ anon ]
+00007fbc0c0ea000    132K r---- bash.mo
+00007fbc0c10b000    192K r---- libc.mo
+00007fbc0c13b000     12K r---- libnss_files-2.31.so
+00007fbc0c13e000     28K r-x-- libnss_files-2.31.so
+00007fbc0c145000      8K r---- libnss_files-2.31.so
+00007fbc0c147000      4K r---- libnss_files-2.31.so
+00007fbc0c148000      4K rw--- libnss_files-2.31.so
+00007fbc0c149000     24K rw---   [ anon ]
+00007fbc0c162000  14200K r---- locale-archive
+00007fbc0cf40000     12K rw---   [ anon ]
+00007fbc0cf43000    148K r---- libc-2.31.so
+00007fbc0cf68000   1504K r-x-- libc-2.31.so
+00007fbc0d0e0000    296K r---- libc-2.31.so
+00007fbc0d12a000      4K ----- libc-2.31.so
+00007fbc0d12b000     12K r---- libc-2.31.so
+00007fbc0d12e000     12K rw--- libc-2.31.so
+00007fbc0d131000     16K rw---   [ anon ]
+00007fbc0d135000      4K r---- libdl-2.31.so
+00007fbc0d136000      8K r-x-- libdl-2.31.so
+00007fbc0d138000      4K r---- libdl-2.31.so
+00007fbc0d139000      4K r---- libdl-2.31.so
+00007fbc0d13a000      4K rw--- libdl-2.31.so
+00007fbc0d13b000     56K r---- libtinfo.so.6.2
+00007fbc0d149000     60K r-x-- libtinfo.so.6.2
+00007fbc0d158000     56K r---- libtinfo.so.6.2
+00007fbc0d166000     16K r---- libtinfo.so.6.2
+00007fbc0d16a000      4K rw--- libtinfo.so.6.2
+00007fbc0d16b000      8K rw---   [ anon ]
+00007fbc0d179000     28K r--s- gconv-modules.cache
+00007fbc0d180000      4K r---- ld-2.31.so
+00007fbc0d181000    140K r-x-- ld-2.31.so
+00007fbc0d1a4000     32K r---- ld-2.31.so
+00007fbc0d1ad000      4K r---- ld-2.31.so
+00007fbc0d1ae000      4K rw--- ld-2.31.so
+00007fbc0d1af000      4K rw---   [ anon ]
+00007fffb2722000    132K rw---   [ stack ]
+00007fffb2799000     16K r----   [ anon ]
+00007fffb279d000      8K r-x--   [ anon ]
+ffffffffff600000      4K --x--   [ anon ]
+ всего            19708K
